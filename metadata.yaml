@@ -1,0 +1,49 @@
+_repo: The-History-of-Germain-Street-Baptist-Church-St-John-NB-for-its-first-one-hundred-years-1810-__74266
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Belyea, Theodore H. (Theodore Harding)
+    aliases:
+    - Belyea, Theodore Harding
+    - Belyea, T. H. (Theodore Harding)
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '57422'
+    url: http://www.gutenberg.org/2009/agents/57422
+  - agent_name: Hunt, Donaldson
+    birthdate: 1865
+    deathdate: 1941
+    gutenberg_agent_id: '57412'
+    url: http://www.gutenberg.org/2009/agents/57412
+creator:
+  author:
+    agent_name: Denham, Thomas D.
+    birthdate: 1850
+    deathdate: 1911
+    gutenberg_agent_id: '57410'
+    url: http://www.gutenberg.org/2009/agents/57410
+description: ''
+gutenberg_issued: '2024-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74266'
+language: en
+pgterms:marc904: https://archive.org/details/thehistoryofgerm00unknuoft/page/n9/mode/2up
+pgterms:marc905: 20230418110147na
+pgterms:marc906: '1910'
+pgterms:marc907: CA
+production_note: George A. Rawlyk Library, Crandall University
+publication_note: '  $aSt. John :$bSaint John Globe Pub. Co, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germain Street Baptist Church (Saint John, N.B.) -- History'
+- !lcsh 'Baptists -- New Brunswick -- Saint John'
+- !lcsh 'Saint John (N.B.) -- Biography'
+- !lcsh 'Saint John (N.B.) -- Church history'
+- !lcc 'BX'
+- GITenberg
+title: The History of Germain Street Baptist Church, St. John, N.B., for its first
+  one hundred years, 1810-1910
+url: http://www.gutenberg.org/ebooks/74266
