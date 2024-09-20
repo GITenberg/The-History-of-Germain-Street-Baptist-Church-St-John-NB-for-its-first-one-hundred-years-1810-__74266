@@ -15,6 +15,9 @@ contributor:
     deathdate: 1941
     gutenberg_agent_id: '57412'
     url: http://www.gutenberg.org/2009/agents/57412
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Denham, Thomas D.
@@ -23,6 +26,8 @@ creator:
     gutenberg_agent_id: '57410'
     url: http://www.gutenberg.org/2009/agents/57410
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74266#The-History-of-Germain-Street-Baptist-Church-St-John-NB-for-its-first-one-hundred-years-1810-_
 gutenberg_issued: '2024-08-16'
 gutenberg_type: Text
 identifiers:
